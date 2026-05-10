@@ -1,0 +1,16 @@
+# Code Owners Configuration
+
+# Default code owners
+* @CoderSixSix
+
+# Documentation
+*.md @CoderSixSix
+
+# Python files
+*.py @CoderSixSix
+
+# JavaScript files
+*.js @CoderSixSix
+
+# GitHub Actions
+.github/workflows/* @CoderSixSix
